@@ -1,1 +1,1 @@
-# beginer
+# javascript_beginer
