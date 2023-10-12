@@ -1,1 +1,1 @@
-console.log('Bấm OK để xem Ant làm gì')
+console.log('Bài 1 console log')
