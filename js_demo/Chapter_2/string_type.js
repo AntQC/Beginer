@@ -26,3 +26,5 @@ console.log(exp1,exp2,exp3, exp4 )
 
 // method của string
 console.log(string1.split())
+
+

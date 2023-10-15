@@ -1,0 +1,1 @@
+console.log('Bài 1 console log')// dùng để hiển thị kết quả trong console
