@@ -87,9 +87,7 @@ let packageInfo = [
 }
 ];
 
-for(let i = 0; i < packageInfo.length; i++)
-
-
+for(let i = 0; i < packageInfo.length; ++i)
 {
     console.log(` 4. Kiểm tra packageCode ở vị trí ${i} là: ` + packageInfo[i].packageCode);
 };
